@@ -1,0 +1,9 @@
+body {
+    background: black;
+}
+
+.container {
+    max-width: 5em;
+    padding: 1em;
+
+}
